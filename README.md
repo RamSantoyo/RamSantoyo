@@ -1,6 +1,6 @@
 <h1 align="center">Ramsess Santoyo 👋</h1>
 <img src="https://user-images.githubusercontent.com/99135741/165211123-5a1c62c6-d56b-4ce8-bbf1-3b2e1116a7a9.jpg">
-<h3 align="center">Mexicano / Developer jr/ Marketing</h3>
+<h3 align="center">Mexicano / Developer jr/ Marketing Digital</h3>
 
 <p align="left"> <a href="https://twitter.com/santoyoramsess" target="blank"><img src="https://img.shields.io/twitter/follow/santoyoramsess?logo=twitter&style=for-the-badge" alt="santoyoramsess" /></a> </p>
 
