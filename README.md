@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/santoyoramsess" target="blank"><img src="https://img.shields.io/twitter/follow/santoyoramsess?logo=twitter&style=for-the-badge" alt="santoyoramsess" /></a> </p>
 
-- 👨‍💻 Consulta mi portafolio [CV](https://stellular-yeot-51b0e8.netlify.app/)
+- 👨‍💻 Consulta mi portafolio [CV](https://cutt.ly/IHCMCY0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
