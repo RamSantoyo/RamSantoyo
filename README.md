@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/santoyoramsess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoyoramsess" height="30" width="40" /></a>
 <a href="https://instagram.com/ramsantoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramsantoyo" height="30" width="40" /></a>
+<a href="https://instagram.com/ramsantoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ramsantoyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
