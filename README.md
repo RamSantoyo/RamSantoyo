@@ -1,14 +1,11 @@
 <h1 align="center">Ramsess Santoyo 👋</h1>
 <img src="https://user-images.githubusercontent.com/99135741/165211123-5a1c62c6-d56b-4ce8-bbf1-3b2e1116a7a9.jpg">
 <h3 align="center">Mexicano / Developer jr/ Marketing Digital</h3>
-
-<p align="left"> <a href="https://twitter.com/Ramsesantoyo" target="blank"></p>
-
 - 👨‍💻 Consulta mi portafolio [CV](https://splendid-cupcake-1c7ad2.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/santoyoramsess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoyoramsess" height="30" width="40" /></a>
+<a href="https://twitter.com/Ramsesantoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoyoramsess" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
