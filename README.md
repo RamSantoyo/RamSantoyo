@@ -1,7 +1,7 @@
 <h1 align="center">Ramsess Santoyo 👋</h1>
 <img src="https://user-images.githubusercontent.com/99135741/165211123-5a1c62c6-d56b-4ce8-bbf1-3b2e1116a7a9.jpg">
 <h3 align="center">Mexicano / Developer jr/ Marketing Digital</h3>
-- 👨‍💻 Consulta mi portafolio [CV](https://splendid-cupcake-1c7ad2.netlify.app/)
+- 👨‍💻 Consulta mi portafolio [CV](https://ramsesscv.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
