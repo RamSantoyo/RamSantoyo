@@ -1,7 +1,7 @@
 <h1 align="center">Ramsess Santoyo 👋</h1>
 <img width="1456" height="720" alt="Gemini_Generated_Image_x2kagax2kagax2ka" src="https://github.com/user-attachments/assets/0470d9c6-e245-4f81-b311-7dea4287ab46" />
 
-<h3 align="center">/ Software Developer /</h3>
+<h3 align="center">Frontend</h3>
 - 👨‍💻 Consulta mi portafolio [CV](https://ramsesscv.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
