@@ -31,8 +31,11 @@
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramsess--santoyo-0A66C2?style=flat)](https://www.linkedin.com/in/ramsess-santoyo/)
-[![Email](https://img.shields.io/badge/Email-ramsesssantoyo66%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramsesssantoyo66@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/ramsess-santoyo/"><img height="40" alt="LinkedIn" src="https://github.com/user-attachments/assets/43dc004c-2ee4-497c-b9d5-20cc09e5a54d" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ramsesssantoyo66@gmail.com?subject=Contacto%20desde%20GitHub"><img height="40" alt="Enviar un correo" src="https://cdn.simpleicons.org/gmail" /></a>
+</p>
 
 <!--
 Proyecto destacado: borra estas marcas de comentario cuando publiques tu proyecto insignia.
