@@ -1,5 +1,6 @@
 <h1 align="center">Ramsess Santoyo 👋</h1>
-<img src="https://user-images.githubusercontent.com/99135741/165211123-5a1c62c6-d56b-4ce8-bbf1-3b2e1116a7a9.jpg">
+<img width="1456" height="720" alt="Gemini_Generated_Image_x2kagax2kagax2ka" src="https://github.com/user-attachments/assets/0470d9c6-e245-4f81-b311-7dea4287ab46" />
+
 <h3 align="center">Mexicano / Developer jr/ Marketing Digital</h3>
 - 👨‍💻 Consulta mi portafolio [CV](https://ramsesscv.netlify.app/)
 
