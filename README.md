@@ -6,6 +6,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ramsesantoyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoyoramsess" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramsess-santoyo/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43dc004c-2ee4-497c-b9d5-20cc09e5a54d" alt="santoyoramsess" height="40" /></a>
 </p>
 
